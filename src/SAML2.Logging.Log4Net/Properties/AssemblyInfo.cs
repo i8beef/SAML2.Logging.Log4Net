@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SAML2.Profiles.DKSAML20")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("SAML2.Loggin.Log4Net")]
+[assembly: AssemblyDescription("A logging provider for SAML2 based on Log4Net.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SAML2.Profiles.DKSAML20")]
+[assembly: AssemblyProduct("SAML2.Loggin.CommonLogging")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
