@@ -3,7 +3,7 @@
   <metadata>
     <id>SAML2.Logging.Log4Net</id>
     <version>1.0.0.0</version>
-    <title>SAML2.Profiles.DKSAML20</title>
+    <title>SAML2.Logging.Log4Net</title>
     <authors>Michael Hallock</authors>
     <owners>Michael Hallock</owners>
     <licenseUrl>https://saml2log4net.codeplex.com/license</licenseUrl>
