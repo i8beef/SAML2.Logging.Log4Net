@@ -1,0 +1,5 @@
+<configuration>
+  <SAML20Federation>
+    <Logging loggingFactory="SAML2.Logging.Log4Net.Log4NetLoggerFactory, SAML2.Logging.Log4Net" />
+  </SAML20Federation>
+</configuration>

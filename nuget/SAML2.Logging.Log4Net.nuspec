@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SAML2.Logging.Log4Net</id>
+    <version>1.0.0.0</version>
+    <title>SAML2.Profiles.DKSAML20</title>
+    <authors>Michael Hallock</authors>
+    <owners>Michael Hallock</owners>
+    <licenseUrl>https://saml2log4net.codeplex.com/license</licenseUrl>
+    <projectUrl>https://saml2log4net.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A log provider for SAML2 based on Log4Net.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>SAML SSO Log4Net</tags>
+    <dependencies>
+      <dependency id="SAML2" version="1.0.0.3" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="content\web.config.transform" target="content" />
+    <file src="..\src\SAML2.Logging.Log4Net\bin\Release\SAML2.Logging.Log4Net.dll" target="lib\net40" />
+  </files>
+</package>
