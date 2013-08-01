@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SAML2.Logging.Log4Net</id>
-    <version>1.0.0.4</version>
+    <version>1.0.0.5</version>
     <title>SAML2.Logging.Log4Net</title>
     <authors>Michael Hallock</authors>
     <owners>Michael Hallock</owners>
@@ -10,11 +10,11 @@
     <projectUrl>https://saml2log4net.codeplex.com/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A log provider for SAML2 based on Log4Net.</description>
-    <releaseNotes>Retargetted to .NET 3.5.</releaseNotes>
+    <releaseNotes>Updated SAML2 references.</releaseNotes>
     <copyright>Copyright 2013</copyright>
     <tags>SAML SSO Log4Net</tags>
     <dependencies>
-      <dependency id="SAML2" version="1.0.0.4" />
+      <dependency id="SAML2" version="1.0.0.5" />
       <dependency id="Log4Net" version="2.0.0" />
     </dependencies>
   </metadata>
