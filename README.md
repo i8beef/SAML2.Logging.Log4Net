@@ -1,5 +1,8 @@
 # SAML2.Logging.Log4Net
 
+[![Build status](https://ci.appveyor.com/api/projects/status/d94yejbhdw9lkvm3/branch/release?svg=true)](https://ci.appveyor.com/project/i8beef/saml2-logging-log4net/branch/release)
+[![Build status](https://ci.appveyor.com/api/projects/status/d94yejbhdw9lkvm3/branch/master?svg=true)](https://ci.appveyor.com/project/i8beef/saml2-logging-log4net/branch/master)
+
 A logging provider for SAML2 based on Log4Net.
 
 ### Where to get it
